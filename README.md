@@ -1,4 +1,4 @@
-# Smarthr---hr-payroll-project-employee-management-System
+# Smarthr
 
 
  1. clone the repository into your desired web server.

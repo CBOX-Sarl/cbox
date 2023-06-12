@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/hlgs4475/repositories/cbox 
+    - /bin/cp -R index.html $DEPLOYPATH
+
